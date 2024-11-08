@@ -1,101 +1,122 @@
-<h2 align="left">Hi 👋! My name is Paridhi Gupta and I'm a QA Engineer, from Mumbai, India</h2>
+# Paridhi Gupta 👋
 
-###
+### QA Engineer | Cloud Engineer | Data Scientist  
+_**From Mumbai, India**_  
+
+Welcome to my GitHub profile! I am a QA Engineer with a strong background in cloud infrastructure and data science. With over 2 years of experience, I specialize in **manual and automation testing**, and I am passionate about delivering high-quality software.
+
+---
+
+![banner](https://i.imgur.com/Z5mYO59.png) <!-- You can replace this with your own banner URL -->
+
+### 🎯 **About Me**
+I am a positive-thinking and detail-oriented person with strong problem-solving skills. I have a background in **cloud engineering**, **data science**, and **software testing**, and I thrive on finding innovative solutions to challenges. I am passionate about ensuring the quality and reliability of software systems. 
+
+Currently, I am expanding my expertise in **QA testing**, and I’m eager to leverage my technical and analytical skills in software testing to become a mid-level software tester in the next two years.
+
+### 📞 **Contact**
+- **Phone**: +91-7208465894
+- **Email**: [paridhigupta4445@gmail.com](mailto:paridhigupta4445@gmail.com)
+- **Location**: Mumbai, India
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- **GitHub**: [My GitHub](https://github.com/your-github)
+
+---
+
+### 🚀 **Skills**
+
+**Manual & Automation Testing:**
+- Functional & Usability Testing of web applications
+- Test Case Creation & Execution
+- Bug Reporting & Analysis
+- Test Documentation (Test Cases, Checklists, Reports)
+
+**API Testing:**
+- SOAP & REST APIs testing
+- Proficient in **SoapUI** tool
+
+**Scripting & Databases:**
+- **Python**: Basic scripts & algorithms
+- **SQL**: Complex queries, subqueries, joins & unions
+- **Test Automation**: Robot Framework, Cucumber
+
+**Tools & Technologies:**
+- **TestRail**: Test case & suite management
+- **Jira**: Bug reporting & project management
+- **SoapUI**: API testing
+- **Browser Developer Tools**: Debugging & testing
+- **VirtualBox**: VM management
+- **Trello** & **Notion**: Project tracking
+
+---
+
+### 📚 **Certifications & Courses**
+- **Robot Framework Test Automation** (Level 1-4) – [Udemy](https://www.udemy.com)
+- **Quality Assurance Essentials** – [Quality Lab, Moscow](https://qualitylab.ru)
+- **Onboarding to Testing** – [Quality Lab, Moscow](https://qualitylab.ru)
+
+---
+
+### 🌱 **Current Learning**
+I am currently studying and applying software testing methodologies and tools. I am working on enhancing my skills in **Robot Framework**, **Cucumber**, and **Test Automation** to build more robust testing solutions.
+
+---
+
+### 🛠️ **My Projects**
+
+- **[Customer Churn Prediction](https://github.com/your-github/customer-churn-prediction)**: A machine learning project focused on predicting customer churn.
+- **[Social Media Platform](https://github.com/your-github/social-media-platform)**: A web app built with React and Node.js.
+- **[Drinking Water Tracking](https://github.com/your-github/drinking-water-tracking)**: A web application for tracking daily water consumption.
+
+---
+
+### 💼 **Work Experience**
+**QA Engineer**  
+At **Your Company**  
+- Led manual and automation testing for client-server and web-based applications.
+- Developed test cases, reported bugs, and executed testing procedures to ensure software reliability.
+- Worked closely with cross-functional teams to define testing requirements and optimize test processes.
+
+**Cloud Engineer**  
+At **Trigate**  
+- Assisted in managing cloud infrastructure and ensuring system reliability.
+- Worked on tools like **AWS**, **Grafana**, and **Jenkins** for cloud resource monitoring and CI/CD pipeline development.
+
+**Data Scientist Intern**  
+At **Intellipaat**  
+- Contributed to academic projects such as customer churn prediction and social media analytics.
+
+---
+
+### 💡 **Fun Fact**
+I love solving algorithmic problems and experimenting with new technologies in my free time. Also, I enjoy **cooking**, especially making **mozzarella cheese** at home using Amul milk! 🧀
+
+---
+
+### 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=dracula" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=dracula" alt="Languages" height="150"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### 🌍 **Let's Connect!**
+Feel free to reach out to me via any of the platforms below.
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🐍 **Snake Animation**
 
-###
+![Snake Animation](https://raw.githubusercontent.com/your-github/your-github/output/snake.svg)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p>Welcome to my portfolio! I am a QA Engineer with 2 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.</p>
-
-### 📞 Contact
-
-- Phone: +91-7208465894  
-- Location: Mumbai, India  
-- Email: paridhigupta4445@gmail.com  
-- LinkedIn: [Your LinkedIn](#)  
-- GitHub: [Your GitHub](#)  
-
-### About Me
-
-I am a positive-thinking person who possesses a balance of analytical skills and strong interpersonal abilities. My organized, structured, and detail-oriented approach stems from my background as a cloud engineer and data scientist. I thrive on solving problems and collaborating with others.
-
-I hold a Master's degree in Information Technology from the University of Mumbai and have worked as a Technical Associate and Data Scientist. My experience spans over two years in managing cloud infrastructure, automation, and software testing, focusing on enhancing system performance and reliability.
-
-Now, I aim to leverage my technical and analytical skills in software testing. Currently, I am intensively studying testing methodologies and tools through online courses and applying my knowledge to real-world projects.
-
-I am eager to gain hands-on experience in testing operational products, a crucial step towards my career goal of becoming a mid-level software tester in the next two years.
-
-### Skills
-
-- **Manual Testing**: Can perform manual functional and usability testing of web applications.
-- **Test Analysis & Design**: Familiar with functional decomposition of products, creating state transition diagrams, and writing use cases.
-- **API Testing**: Knowledgeable about SOAP and REST APIs and proficient in using SoapUI.
-- **Exploratory Testing**: Capable of using Whittaker’s test tours and creating cheat lists for testing.
-- **Test Documentation**: Can create test cases and checklists, providing detailed bug and session reports.
-- **SQL Databases**: Can write complex queries and use subqueries, joins, and unions.
-- **Python Fundamentals**: Can write simple functions and algorithms.
-
-### Tools
-
-- TestRail, Jira, SoapUI, Browser Developer Tools, VirtualBox, Trello, Notion, Mind Maps & Diagrams
-
-### Courses
-
-- **Robot Framework Test Automation**: Online course by Bryan Lamb, Udemy  
-- **The 1st Online Institute of Software Testing**: Quality Lab, Moscow, Russia  
-- **Onboarding to Testing · Jedi Point**: Quality Lab, Moscow, Russia  
-
-### Examples of My Work
-
-- **Test Cases and Work in TestRail**: Created demo test cases for various web applications.
-- **Bug Reports and Work in Jira**: Documented bugs found and reported them.
-- **Mind Maps and Diagrams**: Developed functional decomposition and state-transition diagrams.
-- **Scripts for PICT (Pairwise Testing)**: Generated test case combinations for forms with dependencies using PICT scripts.
-
-### Books I Have Read
-
-- "Testing Dot Com" by R. Savin  
-- "A Practitioner's Guide to Software Test Design" by Lee Copeland
+*Thanks for visiting my profile! I'm excited to continue learning and growing in the world of software testing, cloud engineering, and data science.* 😊
